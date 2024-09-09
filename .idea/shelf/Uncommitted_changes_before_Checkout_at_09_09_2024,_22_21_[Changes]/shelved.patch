@@ -1,0 +1,15 @@
+Index: src/main/kotlin/Main.kt
+===================================================================
+diff --git a/src/main/kotlin/Main.kt b/src/main/kotlin/Main.kt
+deleted file mode 100644
+--- a/src/main/kotlin/Main.kt	(revision 0b5a5f8725f10bce908d879334ad6d1f51bdd2f7)
++++ /dev/null	(revision 0b5a5f8725f10bce908d879334ad6d1f51bdd2f7)
+@@ -1,7 +0,0 @@
+-fun main(args: Array<String>) {
+-    println("Hello World!")
+-
+-    // Try adding program arguments via Run/Debug configuration.
+-    // Learn more about running applications: https://www.jetbrains.com/help/idea/running-applications.html.
+-    println("Program arguments: ${args.joinToString()}")
+-}
+\ No newline at end of file

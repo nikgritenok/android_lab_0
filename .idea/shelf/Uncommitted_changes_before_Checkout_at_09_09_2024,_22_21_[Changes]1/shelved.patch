@@ -1,0 +1,25 @@
+Index: src/main/kotlin/Main.kt
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+>import kotlin.io.readln\n\nfun main() {\n    println(\"Введите целое положительное число:\")\n    val numberStr = readln()\n\n    // Вариант 2: Использование функций first() и last()\n    val firstDigit2 = numberStr.first().toString().toInt()\n    val lastDigit2 = numberStr.last().toString().toInt()\n    println(\"Сумма первой и последней цифр: ${firstDigit2 + lastDigit2}\")\n}
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/src/main/kotlin/Main.kt b/src/main/kotlin/Main.kt
+--- a/src/main/kotlin/Main.kt	(revision e957a6344e74495c51a2a824c3f3589c96f82abd)
++++ b/src/main/kotlin/Main.kt	(date 1725895277632)
+@@ -1,11 +1,0 @@
+-import kotlin.io.readln
+-
+-fun main() {
+-    println("Введите целое положительное число:")
+-    val numberStr = readln()
+-
+-    // Вариант 2: Использование функций first() и last()
+-    val firstDigit2 = numberStr.first().toString().toInt()
+-    val lastDigit2 = numberStr.last().toString().toInt()
+-    println("Сумма первой и последней цифр: ${firstDigit2 + lastDigit2}")
+-}
+\ No newline at end of file
+diff --git a/src/main/kotlin/task1_1.kt b/src/main/kotlin/task1_1.kt
+new file mode 100644

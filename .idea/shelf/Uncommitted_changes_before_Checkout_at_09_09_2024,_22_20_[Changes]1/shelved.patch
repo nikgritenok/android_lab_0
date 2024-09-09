@@ -1,0 +1,92 @@
+Index: src/main/kotlin/Main.kt
+===================================================================
+diff --git a/src/main/kotlin/Main.kt b/src/main/kotlin/Main.kt
+deleted file mode 100644
+--- a/src/main/kotlin/Main.kt	(revision e957a6344e74495c51a2a824c3f3589c96f82abd)
++++ /dev/null	(revision e957a6344e74495c51a2a824c3f3589c96f82abd)
+@@ -1,11 +0,0 @@
+-import kotlin.io.readln
+-
+-fun main() {
+-    println("Введите целое положительное число:")
+-    val numberStr = readln()
+-
+-    // Вариант 2: Использование функций first() и last()
+-    val firstDigit2 = numberStr.first().toString().toInt()
+-    val lastDigit2 = numberStr.last().toString().toInt()
+-    println("Сумма первой и последней цифр: ${firstDigit2 + lastDigit2}")
+-}
+\ No newline at end of file
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"c4e0a6bd-bebe-42d2-b432-664fb6e9ddaf\" name=\"Changes\" comment=\"init\" />\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Kotlin File\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_BRANCH_BY_REPOSITORY\">\n      <map>\n        <entry key=\"$PROJECT_DIR$\" value=\"main\" />\n      </map>\n    </option>\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 3\n}</component>\n  <component name=\"ProjectId\" id=\"2lpAzEJEwhq0LIDICk5rdwn5evC\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\">\n    <ConfirmationsSetting value=\"2\" id=\"Add\" />\n  </component>\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"git-widget-placeholder\": \"main\",\n    \"settings.editor.selected.configurable\": \"preferences.lookFeel\"\n  }\n}]]></component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"c4e0a6bd-bebe-42d2-b432-664fb6e9ddaf\" name=\"Changes\" comment=\"\" />\n      <created>1725866905180</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1725866905180</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"init\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1725866982259</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1725866982259</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"init\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1725867278740</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1725867278740</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"3\" />\n    <servers />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"init\" />\n    <MESSAGE value=\"1\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"1\" />\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision e957a6344e74495c51a2a824c3f3589c96f82abd)
++++ b/.idea/workspace.xml	(date 1725895215030)
+@@ -4,25 +4,13 @@
+     <option name="autoReloadType" value="SELECTIVE" />
+   </component>
+   <component name="ChangeListManager">
+-    <list default="true" id="c4e0a6bd-bebe-42d2-b432-664fb6e9ddaf" name="Changes" comment="init" />
++    <list default="true" id="c4e0a6bd-bebe-42d2-b432-664fb6e9ddaf" name="Changes" comment="1" />
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+     <option name="LAST_RESOLUTION" value="IGNORE" />
+-  </component>
+-  <component name="FileTemplateManagerImpl">
+-    <option name="RECENT_TEMPLATES">
+-      <list>
+-        <option value="Kotlin File" />
+-      </list>
+-    </option>
+   </component>
+   <component name="Git.Settings">
+-    <option name="RECENT_BRANCH_BY_REPOSITORY">
+-      <map>
+-        <entry key="$PROJECT_DIR$" value="main" />
+-      </map>
+-    </option>
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+   </component>
+   <component name="ProjectColorInfo">{
+@@ -40,8 +28,7 @@
+   "keyToString": {
+     "RunOnceActivity.OpenProjectViewOnStart": "true",
+     "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "git-widget-placeholder": "main",
+-    "settings.editor.selected.configurable": "preferences.lookFeel"
++    "git-widget-placeholder": "task1"
+   }
+ }]]></component>
+   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+@@ -61,20 +48,11 @@
+       <option name="project" value="LOCAL" />
+       <updated>1725866982259</updated>
+     </task>
+-    <task id="LOCAL-00002" summary="init">
+-      <option name="closed" value="true" />
+-      <created>1725867278740</created>
+-      <option name="number" value="00002" />
+-      <option name="presentableId" value="LOCAL-00002" />
+-      <option name="project" value="LOCAL" />
+-      <updated>1725867278740</updated>
+-    </task>
+-    <option name="localTasksCounter" value="3" />
++    <option name="localTasksCounter" value="2" />
+     <servers />
+   </component>
+   <component name="VcsManagerConfiguration">
+     <MESSAGE value="init" />
+-    <MESSAGE value="1" />
+-    <option name="LAST_COMMIT_MESSAGE" value="1" />
++    <option name="LAST_COMMIT_MESSAGE" value="init" />
+   </component>
+ </project>
+\ No newline at end of file
+diff --git a/src/main/kotlin/task1_1.kt b/src/main/kotlin/task1_1.kt
+new file mode 100644
