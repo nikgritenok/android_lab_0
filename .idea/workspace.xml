@@ -4,21 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4e0a6bd-bebe-42d2-b432-664fb6e9ddaf" name="Changes" comment="task1_2 and task 1_3 is done">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task4_1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task4_2.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task4_3.kt" afterDir="false" />
+    <list default="true" id="c4e0a6bd-bebe-42d2-b432-664fb6e9ddaf" name="Changes" comment="tasks 4 is done">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task5.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/task2_1.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/task2_2_for.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/task2_2_for_each.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/task2_2_while.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/task2_3_for.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/task2_3_for_each.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/task2_3_min_max.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/task2_3_reduce.kt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/task2_3_while.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/task4_1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/task4_2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/task4_3.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="task1" />
+        <entry key="$PROJECT_DIR$" value="task4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -56,7 +47,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "task4",
+    "git-widget-placeholder": "task5",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
@@ -106,15 +97,36 @@
       <option name="project" value="LOCAL" />
       <updated>1726403554634</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="tasks 4 is done">
+      <option name="closed" value="true" />
+      <created>1726404284705</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726404284705</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="1" />
     <MESSAGE value="task1_1" />
     <MESSAGE value="task1_2 and task 1_3 is done" />
+    <MESSAGE value="tasks 2 is done" />
     <MESSAGE value="tasks 3 is done" />
-    <option name="LAST_COMMIT_MESSAGE" value="tasks 3 is done" />
+    <MESSAGE value="tasks 4 is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="tasks 4 is done" />
   </component>
 </project>
