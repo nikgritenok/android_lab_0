@@ -4,18 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c4e0a6bd-bebe-42d2-b432-664fb6e9ddaf" name="Changes" comment="task1_2 and task 1_3 is done">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task2_1.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task2_2_for.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task2_2_for_each.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task2_2_while.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task2_3_for.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task2_3_for_each.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task2_3_min_max.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task2_3_reduce.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task2_3_while.kt" afterDir="false" />
+    <list default="true" id="c4e0a6bd-bebe-42d2-b432-664fb6e9ddaf" name="Changes" comment="tasks 2 is done">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task3.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/task2_1.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/task2_2_for.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/task2_2_for_each.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/task2_2_while.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/task2_3_for.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/task2_3_for_each.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/task2_3_min_max.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/task2_3_reduce.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/task2_3_while.kt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,7 +32,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="task1" />
+        <entry key="$PROJECT_DIR$" value="task4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -48,14 +48,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "task2",
-    "settings.editor.selected.configurable": "preferences.lookFeel"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;task3&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/kotlin" />
