@@ -4,12 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="c4e0a6bd-bebe-42d2-b432-664fb6e9ddaf" name="Changes" comment="tasks 4 is done">
       <change afterPath="$PROJECT_DIR$/src/main/kotlin/task5.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/task4_1.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/task4_2.kt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/task4_3.kt" beforeDir="false" />
+=======
+    <list default="true" id="c4e0a6bd-bebe-42d2-b432-664fb6e9ddaf" name="Changes" comment="tasks 5 is done">
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/task5.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/task4_3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/task4_3.kt" afterDir="false" />
+>>>>>>> 6a05dfa (tasks 4 is done)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,7 +33,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+<<<<<<< HEAD
         <entry key="$PROJECT_DIR$" value="task4" />
+=======
+        <entry key="$PROJECT_DIR$" value="task5" />
+>>>>>>> 6a05dfa (tasks 4 is done)
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -105,7 +116,19 @@
       <option name="project" value="LOCAL" />
       <updated>1726404284705</updated>
     </task>
+<<<<<<< HEAD
     <option name="localTasksCounter" value="6" />
+=======
+    <task id="LOCAL-00006" summary="tasks 5 is done">
+      <option name="closed" value="true" />
+      <created>1726404943703</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726404943703</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
+>>>>>>> 6a05dfa (tasks 4 is done)
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -127,6 +150,11 @@
     <MESSAGE value="tasks 2 is done" />
     <MESSAGE value="tasks 3 is done" />
     <MESSAGE value="tasks 4 is done" />
+<<<<<<< HEAD
     <option name="LAST_COMMIT_MESSAGE" value="tasks 4 is done" />
+=======
+    <MESSAGE value="tasks 5 is done" />
+    <option name="LAST_COMMIT_MESSAGE" value="tasks 5 is done" />
+>>>>>>> 6a05dfa (tasks 4 is done)
   </component>
 </project>
